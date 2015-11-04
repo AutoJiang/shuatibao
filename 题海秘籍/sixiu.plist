@@ -1,0 +1,1680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>1	法的调整对象是（      ）。
+</string>
+		<string>A、行为关系  
+</string>
+		<string>B、思想关系  
+</string>
+		<string>C、利益关系  
+</string>
+		<string>D、各种社会资源
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>2	法律与其他社会规范的区别在于(      )。	
+</string>
+		<string>A、是调整人们行为的规范	  
+</string>
+		<string>B、有约束力	
+</string>
+		<string>C、由国家强制力保证执行	  
+</string>
+		<string>D、规定制裁措施
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>3	法律主要体现的是(      )的意志。	
+</string>
+		<string>A、全民	
+</string>
+		<string>B、统治阶级	
+</string>
+		<string>C、政党	
+</string>
+		<string>D、整个社会
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>4	我国刑法规定犯罪的时候(      )不适用死刑。	
+</string>
+		<string>A、不满14周岁的人	 
+</string>
+		<string>B、不满16周岁的人	
+</string>
+		<string>C、不满18周岁的人	 
+</string>
+		<string>D、已满16周岁的人不满18周岁的人
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>5	在一个国家里，由部门法所构成的有机联系的整体，称为(      )。	
+</string>
+		<string>A、法律体系	
+</string>
+		<string>B、法系	
+</string>
+		<string>C、法学体系	
+</string>
+		<string>D、法的历史类型
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>6	下列行为中，不可被提起行政诉讼的有(      )。	
+</string>
+		<string>A、罚款	
+</string>
+		<string>B、国防行为	
+</string>
+		<string>C、没收	
+</string>
+		<string>D、强行摊派
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>7	国家的根本大法是(      )。	
+</string>
+		<string>A、行政法	
+</string>
+		<string>B、刑法	
+</string>
+		<string>C、宪法	
+</string>
+		<string>D、民商法
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>8	根据《行政诉讼法》规定，相对人对具体行政行为不服直接向人民法院提起诉讼，应当在知道作出具体行政行为之日起(      )内提起，法律另有规定的除外。	
+</string>
+		<string>A、15日	
+</string>
+		<string>B、30日	
+</string>
+		<string>C、2个月	
+</string>
+		<string>D、3个月
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>9	下列关于我国规范性法律文件效力从高至低排列正确的是(      )。	
+</string>
+		<string>A、行政复议法→宪法→物权法          
+</string>
+		<string>B、宪法→刑法→枪支管理办法	
+</string>
+		<string>C、物权法→行政诉讼法→行政许可法	  
+</string>
+		<string>D、民法通则→刑事诉讼法→著作权法
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>10	《反不正当竞争法》和《消费者权益保护法》都属于(      )的范畴。	
+</string>
+		<string>A、民法商法	
+</string>
+		<string>B、行政法	
+</string>
+		<string>C、经济法	
+</string>
+		<string>D、社会法
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>11	甲地天南公司将3辆车卖给乙地海北公司，海北公司将汽车运会期间受到乙地工商局查处。工商局以天南公司无进口汽车证明，海北公司无准运证从事非法销售运输为由，决定没收3辆汽车。天南公司不服该决定提起诉讼。本案受理法院的主要审查对象是(      )。	
+</string>
+		<string>A、3辆汽车的性质	                 
+</string>
+		<string>B、天南公司销售行为的合法性	
+</string>
+		<string>C、海北公司购买运输行为的合法性	   
+</string>
+		<string>D、工商局处罚决定的合法性
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>12	(      )是指人民法院在诉讼参与人的参加下依法审理民事案件、经济案件的活动。	
+</string>
+		<string>A、刑事诉讼	
+</string>
+		<string>B、民事诉讼	
+</string>
+		<string>C、行政诉讼	
+</string>
+		<string>D、经济诉讼
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>13	在民事诉讼中，举证责任的一般原则是(      )。	
+</string>
+		<string>A、举证责任倒置	          
+</string>
+		<string>B、由公安机关负责收集证据	
+</string>
+		<string>C、谁主张，谁举证	          
+</string>
+		<string>D、由被告负举证责任
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>14	民事诉讼的上诉期限为：判决书和裁定书送达之日起的(      )之内。	
+</string>
+		<string>A、15日和10日	
+</string>
+		<string>B、10日和15日	
+</string>
+		<string>C、10日和10日	
+</string>
+		<string>D、10日和5日
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>15	在社会主义国家中，守法的主体是(      )。	
+</string>
+		<string>A、一切组织和个人	          
+</string>
+		<string>B、中华人民共和国公民	
+</string>
+		<string>C、国家权力机关	         
+</string>
+		<string>D、各企事业单位
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>16	我国的司法机关包括(      )。	
+</string>
+		<string>A、人民代表大会	         
+</string>
+		<string>B、法院和检察院	
+</string>
+		<string>C、公安局、检察院、法院	 
+</string>
+		<string>D、人民政府
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>17	我国第一次提出依法治国，建设社会主义法治国家的治国基本方略是在(      )。
+</string>
+		<string>A、1982年宪法             
+</string>
+		<string>B、1978年党的十一届三中全会
+</string>
+		<string>C、1992年党的十四大	  
+</string>
+		<string>D、1997年党的十五大
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>18	下列选项中关于“法制”与“法治”的表述正确的是(      )。	
+</string>
+		<string>A、“法治”通常是指国家的法律和制度的简称，是一种社会制度	
+</string>
+		<string>B、党的十五大确立了建设社会主义法治国家的战略目标	
+</string>
+		<string>C、“法制”是一种治理国家的理论、原则、理念和方法，是一种社会意识	
+</string>
+		<string>D、“法制”与“法治”这两个概念没有区别
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>19	社会主义民主的本质是(      )。	
+</string>
+		<string>A、共产党的领导	         
+</string>
+		<string>B、民主集中制	
+</string>
+		<string>C、坚持社会主义道路	    
+</string>
+		<string>D、人民当家作主
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>20	(      )是社会主义民主法治建设的根本保证。	
+</string>
+		<string>A、社会主义民主与法制	
+</string>
+		<string>B、党的领导	
+</string>
+		<string>C、民主集中制	
+</string>
+		<string>D、人民代表大会制
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>21	追求(      )是法律的主要价值目标。	
+</string>
+		<string>A、自由平等	
+</string>
+		<string>B、公平正义	
+</string>
+		<string>C、仁爱宽恕	
+</string>
+		<string>D、尊严权威
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>22	社会主义法治国家建设的进程能否顺利推进，在一定程度上要看(      )。
+</string>
+		<string>A、社会主义法律思维能否深入人心	
+</string>
+		<string>B、社会主义法律知识能否普及
+</string>
+		<string>C、社会主义国家执法水平能否提高	
+</string>
+		<string>D、社会主义法律体系能否完善
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>23	现实生活中，如果法律思维与道德思维产生冲突，应当(      )。	
+</string>
+		<string>A、以道德思维优先	           
+</string>
+		<string>B、以法律思维优先	
+</string>
+		<string>C、兼顾道德思维与法律思维	 
+</string>
+		<string>D、视具体情况而定
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>24	对于一些不合情理的法律规定，错误的做法是(      )。	
+</string>
+		<string>A、只要它们没有被修改或废除，就要遵守或者执行	
+</string>
+		<string>B、向有关国家机关提出修改或废除的建议	
+</string>
+		<string>C、不漠视、违背或者搁置它们	
+</string>
+		<string>D、在一定程度上，可以忽略它们
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>25	我国的国体是(      )。	
+</string>
+		<string>A、人民民主专政制度	         
+</string>
+		<string>B、社会主义制度	
+</string>
+		<string>C、政治协商制度	             
+</string>
+		<string>D、人民代表大会制度
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>26	2007年3月，十届人大五次会议通过了全国人大立法史上审议次数最多的法律草案，也是中国从法律上明确保护私人财产的重要法律——(      )。	
+</string>
+		<string>A、《民法通则》	
+</string>
+		<string>B、《经济合同法》	
+</string>
+		<string>C、《民法典》	
+</string>
+		<string>D、《物权法》
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>27	下列有关代理行为的法律特征的叙述中，错误的是(      )。	
+</string>
+		<string>A、代理人必须是以自己的名义进行活动	
+</string>
+		<string>B、代理人必须是以被代理人的名义进行活动	
+</string>
+		<string>C、代理行为产生的法律后果直接由被代理人承受	
+</string>
+		<string>D、代理人在被代理人授权范围内独立作出意思表示
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>28	不属于我国刑法基本原则的是(      )。	
+</string>
+		<string>A、类推原则          
+</string>
+		<string>B、罪刑法定原则	
+</string>
+		<string>C、罪刑相适应原则 	
+</string>
+		<string>D、法律面前人人平等原则
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>29	以下属于有效的民事行为的是(      )。	
+</string>
+		<string>A、某青年以一块糖果换得某10岁儿童的一块手表	
+</string>
+		<string>B、某精神病人，在患病期间将家里的摄像机送给邻居	
+</string>
+		<string>C、某单位两职工就家俱转让意思表示达成一致，并签订协议	
+</string>
+		<string>D、五个中学生强行以5元人民币的价格买下某同学的一辆新自行车
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>30	我国《民法通则》规定，债权人向人民法院请求保护债权的诉讼时效为(      )。
+</string>
+		<string>A、一年	
+</string>
+		<string>B、两年	
+</string>
+		<string>C、四年	
+</string>
+		<string>D、二十年
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>31	如果立遗嘱人先后立了数份内容相抵触的遗嘱，应以(      )为主。	
+</string>
+		<string>A、自书遗嘱	
+</string>
+		<string>B、代书遗嘱
+</string>
+		<string>C、录音遗嘱	
+</string>
+		<string>D、最后一份遗嘱
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>32	下列选项中，属于公民基本权利中监督权利的是(      )。
+</string>
+		<string>A、通信自由	
+</string>
+		<string>B、受教育权利	
+</string>
+		<string>C、批评建议权	
+</string>
+		<string>D、宗教信仰自由
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>33	权利人对其文学、艺术和科学作品依法享有的人身权和财产权，称为(      )。
+</string>
+		<string>A、所有权	
+</string>
+		<string>B、专利权	
+</string>
+		<string>C、著作权	
+</string>
+		<string>D、商标权
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>34	作家甲于2001年2月创作完成一部小说，4月与出版社协商出版事宜，5月出版社同意出版，7月由出版社正式出版，甲取得该小说著作权的时间应是(      )。
+</string>
+		<string>A、7月    
+</string>
+		<string>B、5月	    
+</string>
+		<string>C、4月	
+</string>
+		<string>D、2月
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>35	大学生某甲因期末考试作弊被学校勒令退学，某甲不服，以学校为被告向人民法院起诉，该争议之法律关系性质为(      )。	
+</string>
+		<string>A、民事法律关系	
+</string>
+		<string>B、行政法律关系	
+</string>
+		<string>C、社会关系
+</string>
+		<string>D、管理法律关系
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>36	限制人身自由的行政处罚权只能由下列哪个机关行使(      )。	
+</string>
+		<string>A、人民法院	
+</string>
+		<string>B、人民检察院	
+</string>
+		<string>C、公安机关
+</string>
+		<string>D、人民政府
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>37	经营者提供商品或服务有欺诈行为，应当按照消费者的要求增加赔偿其受到的损失，增加赔偿的金额为消费者购买商品的价款或接受服务的费用的(      )。
+</string>
+		<string>A、一倍	
+</string>
+		<string>B、二倍	
+</string>
+		<string>C、三倍	
+</string>
+		<string>D、四倍
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>38	杨某出差住宾馆，遗失手机一部，被打扫房间的服务员拾到，并据为己有。服务员的行为属于(      )。	
+</string>
+		<string>A、违约行为
+</string>
+		<string>B、不当得利
+</string>
+		<string>C、侵权行为	
+</string>
+		<string>D、提存行为
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>39	对于两个以上的申请人分别就同样的发明创造申请专利的，法律规定实行(      )原则。	
+</string>
+		<string>A、使用在先
+</string>
+		<string>B、完成在先
+</string>
+		<string>C、申请在先
+</string>
+		<string>D、一体对待
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>40	我国刑法规定，醉酒的人犯罪，(      )。
+</string>
+		<string>A、可以负刑事责任    	
+</string>
+		<string>B、可以从轻、减轻处罚	
+</string>
+		<string>C、应当从轻处罚	  
+</string>
+		<string>D、应当负刑事责任
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>41	中学生某甲，1983年4月5日生。1998年3月28日，他故意把一同学打成重伤，某甲对于他的这一行为(      )。
+</string>
+		<string>A、应负刑事责任,但应当从轻或减轻处罚	
+</string>
+		<string>B、应负刑事责任,但可以从轻或减轻处罚	
+</string>
+		<string>C、应负刑事责任,但可以减轻或免除处罚	
+</string>
+		<string>D、不负刑事责任
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>42	某男入室抢劫时，发现室内有一老人，于是欲将其杀死。老人苦苦哀求，该男不忍下手，空手夺窗逃走。该男的行为是(      )。	
+</string>
+		<string>A、犯罪预备	
+</string>
+		<string>B、犯罪中止	
+</string>
+		<string>C、犯罪未遂
+</string>
+		<string>D、犯罪既遂
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>43	公民甲持刀抢劫公民乙的财物。乙在争夺甲手中所持刀具时，将甲撞倒在水泥地上，甲头部着地，当即昏迷。根据《中华人民共和国刑法》规定，乙的行为属于(      )。	
+</string>
+		<string>A、紧急避险
+</string>
+		<string>B、正当防卫	
+</string>
+		<string>C、防卫过当
+</string>
+		<string>D、故意杀人
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>44	下列关于正当防卫的叙述中，错误的是(      )。	
+</string>
+		<string>A、正当防卫不能明显超过必要限度	
+</string>
+		<string>B、正当防卫必须是针对不法侵害者本人实行防卫	
+</string>
+		<string>C、正当防卫必须是对正在进行的不法侵害行为实行防卫	
+</string>
+		<string>D、正当防卫只能是为了保护本人的人身、财产和其他合法权利而实行防卫
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>45	根据我国的刑罚制度，可以独立适用，又可以附加适用的刑种是(      )。</string>
+		<string>A、管制	</string>
+		<string>B、拘役	</string>
+		<string>C、罚金	</string>
+		<string>D、死刑</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>46	下列不属于附加刑的是(      ) 。	
+</string>
+		<string>A、罚金	
+</string>
+		<string>B、、剥夺政治权利
+</string>
+		<string>C、、没收财产	
+</string>
+		<string>D、、监视居住
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>47	关于法律的溯及力问题，我国刑法采取(      )。	
+</string>
+		<string>A、从旧原则
+</string>
+		<string>B、从新原则	
+</string>
+		<string>C、从轻原则	
+</string>
+		<string>D、从旧兼从轻的原则
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>48	根据《中华人民共和国劳动法》的规定，劳动合同可以约定试用期，但试用期最长不得超过(      )。	
+</string>
+		<string>A、3个月	
+</string>
+		<string>B、6个月	
+</string>
+		<string>C、1年	
+</string>
+		<string>D、2年
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>49	《行政诉讼法》规定，行政诉讼中(      )对做出的具体行政行为负有举证责任。	
+</string>
+		<string>A、原告	
+</string>
+		<string>B、、被告	
+</string>
+		<string>C、、原告和被告	
+</string>
+		<string>D、、原告或被告
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>50	某法院在审理某一刑事案件的过程中，没有采信公安机关通过刑讯逼供取得的一份证据。这体现了诉讼证据的(      )。
+</string>
+		<string>A、主观性特征	
+</string>
+		<string>B、客观性特征	
+</string>
+		<string>C、关联性特征	
+</string>
+		<string>D、合法性特征
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>51	“法无明文规定不为罪，法无明文规定不处罚”是说明(      )原则。	
+</string>
+		<string>A、罪刑法定	           
+</string>
+		<string>B、罪刑相适应	
+</string>
+		<string>C、在适用法律上一律平等	
+</string>
+		<string>D、惩罚与教育相结合
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>52	诉讼法亦称(      )。	
+</string>
+		<string>A、实体法	
+</string>
+		<string>B、根本大法	
+</string>
+		<string>C、程序法	
+</string>
+		<string>D、特别法
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>53	对审判活动进行监督的是(      )。	
+</string>
+		<string>A、公安机关	
+</string>
+		<string>B、人民法院	
+</string>
+		<string>C、人民检察院	
+</string>
+		<string>D、国家安全机关
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>54	我国刑法规定应受刑事责任的最低年龄是(      )。	
+</string>
+		<string>A、已满14周岁	
+</string>
+		<string>B、已满14周岁不满16周岁	
+</string>
+		<string>C、已满16周岁	
+</string>
+		<string>D、已满18周岁
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>55	法律溯及力是指法律颁布后(      )是否适用，如果适用，就有溯及力，如果不适用，就无溯及力。	
+</string>
+		<string>A、对其生效以后发生的事情	
+</string>
+		<string>B、对其生效以前发生的事件和行为
+</string>
+		<string>C、对其生效以后的行为	    
+</string>
+		<string>D、对其生效以后发生的事件和行为
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>56	宪法规定公民有劳动的(      )。	
+</string>
+		<string>A、义务	
+</string>
+		<string>B、权利	
+</string>
+		<string>C、权利和义务	
+</string>
+		<string>D、权力和义务
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>57	人民代表大会制度根据(      )原则，选举产生全国人大和地方各级人大。
+</string>
+		<string>A、三权分立原则	
+</string>
+		<string>B、少数服从多数原则	
+</string>
+		<string>C、民主原则 	   
+</string>
+		<string>D、下级服从上级原则
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>58	人权指作为一个人(      )享有的权利。	
+</string>
+		<string>A、应该	
+</string>
+		<string>B、实际	
+</string>
+		<string>C、应该和实际	
+</string>
+		<string>D、应该和可能
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>59	下列各项中，属于行政合理性原则具体内容的是(      )。	
+</string>
+		<string>A、行政委托必须有法律依据	
+</string>
+		<string>B、行政行为必须基于正当考虑基础上作出	
+</string>
+		<string>C、行政职权必须基于法律的授予才能存在	
+</string>
+		<string>D、行政主体必须依据法律行使行政职权
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>60	在我国解决行政争议的法律途径有(      )。	
+</string>
+		<string>A、由国家权力机关解决	
+</string>
+		<string>B、向法院起诉或者向党的纪律检查机关反映来解决
+</string>
+		<string>C、向有关行政机关申请复议或者向人民法院起诉来解决	
+</string>
+		<string>D、向法院起诉
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>61	行政机关的下列何项行为不属于行政行为(      )。	
+</string>
+		<string>A、征税	
+</string>
+		<string>B、颁发营业执照	
+</string>
+		<string>C、租用办公楼	
+</string>
+		<string>D、制定规定性文件
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>62	(      )是最严厉的行政处罚。	
+</string>
+		<string>A、人身罚	
+</string>
+		<string>B、行为罚	
+</string>
+		<string>C、财产罚	
+</string>
+		<string>D、申诫罚
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>63	《治安管理处罚法》规定的拘留处罚属于(      )。	
+</string>
+		<string>A、司法拘留	
+</string>
+		<string>B、行政拘留	
+</string>
+		<string>C、刑事拘留	
+</string>
+		<string>D、治安拘留
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>64	《行政处罚法》规定，违法行为超过下列何项时效就不再给予行政处罚(      )。	
+</string>
+		<string>A、6个月	
+</string>
+		<string>B、一年	
+</string>
+		<string>C、二年	
+</string>
+		<string>D、三年
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>65	行政处罚的前提是(      )。	
+</string>
+		<string>A、公务员违法      	
+</string>
+		<string>B、行政管理相对人违法	
+</string>
+		<string>C、国家工作人员违纪	
+</string>
+		<string>D、公民犯罪
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>66	行政复议决定的种类不包括(      )。	
+</string>
+		<string>A、维持决定	
+</string>
+		<string>B、限制履行决定	
+</string>
+		<string>C、撤销决定	
+</string>
+		<string>D、替代履行决定
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>67	行政复议期间具体行政行为(      )。	
+</string>
+		<string>A、原则上不停止执行	
+</string>
+		<string>B、应当停止执行	
+</string>
+		<string>C、相对方不应执行	    
+</string>
+		<string>D、可以停止执行，也可以不停止执行
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>68	主持行政裁决活动的机关是(      )。	
+</string>
+		<string>A、司法机关	
+</string>
+		<string>B、行政机关	
+</string>
+		<string>C、检察机关	
+</string>
+		<string>D、国家权力机关
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>69	追究行政主体行政责任的前提是(      )。	
+</string>
+		<string>A、确认行政违法或行政失当	
+</string>
+		<string>B、认定行政失当	
+</string>
+		<string>C、认定行政责任	           
+</string>
+		<string>D、确定行为主体
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>70	根据我国《国家赔偿法》规定，赔偿请求人请求国家赔偿的时效为(      )。
+</string>
+		<string>A、1年	
+</string>
+		<string>B、2年	
+</string>
+		<string>C、5年	
+</string>
+		<string>D、10年
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>71	目前，(      )是规范我国民事活动,调整民事关系的基本法。	
+</string>
+		<string>A、《中华人民共和国民法典》	    
+</string>
+		<string>B、《中华人民共和国经济法典》	
+</string>
+		<string>C、《中华人民共和国民法通则》	
+</string>
+		<string>D、《中华人民共和国海商法》
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>72	民法基本原则中的核心原则是(      )。	
+</string>
+		<string>A、公平	
+</string>
+		<string>B、自愿	
+</string>
+		<string>C、诚实信用	
+</string>
+		<string>D、平等
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>73	何某有一栋可以眺望海景的别墅,当他得知有一栋大楼将要建设,从此再也不能看海景时,就将别墅卖给想得到一套可以眺望海景的房屋的李某。何某的行为违背了民法的哪一原则(      )?	
+</string>
+		<string>A、自愿原则
+</string>
+		<string>B、等价有偿原则	
+</string>
+		<string>C、公平原则
+</string>
+		<string>D、诚实信用原则
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>74	有民事行为能力的公民在被宣告死亡期间实施的民事行为(      )。	
+</string>
+		<string>A、无效	
+</string>
+		<string>B、部分无效
+</string>
+		<string>C、有效	
+</string>
+		<string>D、在撤消宣告死亡后有效
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>75	我国民法通则规定,公民下落不明满(      )的,利害关系人可以向人民法院申请宣告他为失踪人。	
+</string>
+		<string>A、1年	
+</string>
+		<string>B、2年	
+</string>
+		<string>C、3年	
+</string>
+		<string>D、4年
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>76	某出版社在出版一本专著时，故意将两位作者中的一位姓李的名字略去，这种行为侵犯了李某的(      )。	
+</string>
+		<string>A、姓名权	
+</string>
+		<string>B、名誉权	
+</string>
+		<string>C、署名权	
+</string>
+		<string>D、人格权
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>77	杨某15周岁，智力超群，为某歌舞团演员，生活可以自足，根据我国民法，杨某是(      )。	
+</string>
+		<string>A、完全民事行为能力人	
+</string>
+		<string>B、可视为完全民事行为能力人	
+</string>
+		<string>C、限制民事行为能力人	
+</string>
+		<string>D、无民事行为能力人
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>78	甲委托乙购买一辆新汽车，而乙的妹夫正好有一辆旧车要出售。乙与其妹夫商议决定将旧车重新喷漆，冒充新车卖给甲。甲的损失由(      )。	
+</string>
+		<string>A、乙承担	
+</string>
+		<string>B、乙的妹夫承担	
+</string>
+		<string>C、乙与其妹夫承担连带责任	
+</string>
+		<string>D、甲承担
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>79	监护人必须是(      )，才可以处理被监护人的财产。	
+</string>
+		<string>A、监护的必要	
+</string>
+		<string>B、家庭的必要	
+</string>
+		<string>C、任何条件下	
+</string>
+		<string>D、为了被监护人的利益
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>80	某合伙组织起字号为：“蓝天公司”，由甲、乙、丙合伙经营。丙未经甲、乙同意，以合伙组织的名义与丁签订了合同，后又违约。丁可以以谁为被告起诉(      )？
+</string>
+		<string>A、甲、乙、丙	
+</string>
+		<string>B、丙
+</string>
+		<string>C、甲、乙	
+</string>
+		<string>D、蓝天公司
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>81	甲、乙、丙三人各出资20万元买下一间商铺，后甲欲移民国外，故想转让自己的份额，甲通知乙、丙后，乙表示愿意出20万元，丁知道后愿以25万元买下，丙即表示愿以25万元买下。依据法律规定，甲应将其份额卖给(      )。
+</string>
+		<string>A、乙	
+</string>
+		<string>B、丁	
+</string>
+		<string>C、丙	
+</string>
+		<string>D、丁或丙都可以
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>82	所有人不明的埋藏物归(      )。	
+</string>
+		<string>A、发现者	
+</string>
+		<string>B、国家	
+</string>
+		<string>C、埋藏物所在单位	
+</string>
+		<string>D、集体
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>83	甲被宣告死亡后，其妻乙改嫁丙。丙死后一年，乙得知甲仍在世，经联系后，遂向法院申请撤消原死亡宣告。撤消甲的死亡宣告后，甲与乙的婚姻关系如何(      ) ?
+</string>
+		<string>A、自行恢复	
+</string>
+		<string>B、并未自行恢复	
+</string>
+		<string>C、视为自行恢复	
+</string>
+		<string>D、经甲同意自行恢复
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>84	根据《民法通则》的规定，能够产生债权债务的法律事实有：(      )。
+</string>
+		<string>A、合同	                  
+</string>
+		<string>B、合同、不当得利	
+</string>
+		<string>C、合同、不当得利、无因管理	
+</string>
+		<string>D、合同、不当得利、无因管理、侵权行为
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>85	无因管理是根据法律规定产生的债，这类债中，无因管理人有权要求受益人偿付(      )。	
+</string>
+		<string>A、报酬	
+</string>
+		<string>B、支出的一切费用	
+</string>
+		<string>C、收益中的合理份额	
+</string>
+		<string>D、支出的必要费用。
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>86	下列事项能成立无因管理的有：(      )。	
+</string>
+		<string>A、公益性质的事项	  
+</string>
+		<string>B、违法的事项	
+</string>
+		<string>C、不作为的事项	
+</string>
+		<string>D、为邻居保管丢失的小猫
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>87	送奶人误将李某的牛奶放在了刘某的牛奶箱中，刘某取得该牛奶属于(      )。	
+</string>
+		<string>A、不当得利	
+</string>
+		<string>B、侵权行为	
+</string>
+		<string>C、无因管理
+</string>
+		<string>D、自助行为
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>88	下列事实中能发生不当得利之债的是(      )。	
+</string>
+		<string>A、债务人清偿未到期的债务	
+</string>
+		<string>B、给付因赌博而欠的钱	
+</string>
+		<string>C、顾客多付售货员货款	   
+</string>
+		<string>D、养子女给生父母的赡养费
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>89	行为人对行为的内容有重大误解的民事行为属于(      )的民事行为。	
+</string>
+		<string>A、可变更、可撤销的	
+</string>
+		<string>B、无效的	
+</string>
+		<string>C、有效的	
+</string>
+		<string>D、效力未定的
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>90	以合法的形式掩盖非法目的的民事行为属于(      )的民事行为。	
+</string>
+		<string>A、无效的	
+</string>
+		<string>B、效力未定的	
+</string>
+		<string>C、有效的	
+</string>
+		<string>D、可变更、可撤销的
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>91	甲常为乙制作手工制品，历来都是由乙按数量向甲支付一定的预付款。这次由于数量较大，乙提出要签订书面合同，并将预付款改为定金。由于甲是文盲，乙对甲说合同内容与以前完全一样，甲遂在合同上签字。该合同是一种什么性质的民事行为(      )?	
+</string>
+		<string>A、可撤消，因为甲是重大误解而作出意思表示	
+</string>
+		<string>B、可撤消，因为甲是因受欺诈而作出意思表示	
+</string>
+		<string>C、无效，因为甲所作出的是虚假意思表示	
+</string>
+		<string>D、无效，因为甲是在乙乘人之危情况下而为的意思表示
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>92	定金的数额由当事人确定，但不得超过主合同标的额的(      )。	
+</string>
+		<string>A、10%	
+</string>
+		<string>B、20%	
+</string>
+		<string>C、15%	
+</string>
+		<string>D、30%
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>93	一天夜晚，甲开车逆行迫使骑车人乙为躲避甲向右拐，跌入修路挖的坑里(施工单位未设置保护措施)，造成车毁人伤。对乙的损失谁应承担责任(      )?
+</string>
+		<string>A、只能由甲承担责任	       
+</string>
+		<string>B、只能由施工单位承担责任	
+</string>
+		<string>C、甲和施工单位各自承担责任	
+</string>
+		<string>D、甲和施工单位承担连带责任
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>94	根据承担民事责任的归责原则，可将民事责任划分为(      )。	
+</string>
+		<string>A、违约责任与侵权责任	
+</string>
+		<string>B、单方责任与混合责任	
+</string>
+		<string>C、单独责任与共同责任	
+</string>
+		<string>D、过错责任与无过错责任
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>95	由于第三人的过错致使饲养的动物造成他人损害的，应当由(      )承担民事责任。	
+</string>
+		<string>A、动物的饲养人	
+</string>
+		<string>B、动物的管理人	
+</string>
+		<string>C、第三人	       
+</string>
+		<string>D、动物的饲养人和第三人共同
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>96	依据我国民法的规定，自然人的民事权利能力始于(      )。	
+</string>
+		<string>A、受孕	
+</string>
+		<string>B、出生	
+</string>
+		<string>C、年满10周岁	
+</string>
+		<string>D、年满18周岁
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>97	甲欠乙1万元，双方约定于1994年5月20日清偿，到期后，甲并未归还。乙后来到上海，1996年3月15日，乙在上海出车祸昏迷，于1997年4月20日恢复健康。乙对甲的诉讼时效届日为：(      )。	
+</string>
+		<string>A、1996年5月20日	
+</string>
+		<string>B、1997年3月15日	
+</string>
+		<string>C、1997年5月20日	
+</string>
+		<string>D、1997年6月25日
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>98	《婚姻法》规定：男女双方结婚的法定婚龄是(      )。	
+</string>
+		<string>A、男不得早于20周岁，女不得早于18周岁	
+</string>
+		<string>B、男不得早于22周岁，女不得早于20周岁	
+</string>
+		<string>C、男不得早于18周岁，女不得早于16周岁	
+</string>
+		<string>D、青年男女年龄之和大于42岁
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>99	婚姻自由包括(      )。	
+</string>
+		<string>A、恋爱自由和结婚自由	        
+</string>
+		<string>B、结婚自由和离婚自由	
+</string>
+		<string>C、恋爱自由、结婚自由和离婚自由	 
+</string>
+		<string>D、恋爱自由和离婚自由
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>100	王某与武某于1994年3月登记离婚，同年7月双方又以夫妻名义同居生活，财产也放在一起。后因经济问题双方又发生纠纷，王某向人民法院起诉，要求离婚，依照法律，(      )。	
+</string>
+		<string>A、法院应当受理王某起诉的离婚案件	
+</string>
+		<string>B、王某与武某的婚姻关系无效	
+</string>
+		<string>C、法院对王某与武某的纠纷应按事实婚姻处理	
+</string>
+		<string>D、法院对这起纠纷应按非法同居关系处理
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>101	陈宇（女）4岁时，其母与刘佳林再婚，陈宇随生母与继父共同生活9年，继父女之间形成抚养关系。1988年刘佳林与陈宇的生母登记离婚。陈宇遂起诉与刘佳林解除继父女关系。有关陈宇与继父刘佳林之关系的诸多看法中，(      )等看法是正确的。	
+</string>
+		<string>A、在陈宇生母离婚前，陈宇与刘佳林既存在姻亲关系，也存在抚养关系	
+</string>
+		<string>B、陈宇与刘佳林之间权利义务关系自然终止;法院对陈宇的起诉可不予受理	
+</string>
+		<string>C、陈宇与刘佳林之间权利义务关系不能自然终止	
+</string>
+		<string>D、法院应对陈宇与继父的关系作出是否准许解除的调解或判决
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>102	收养关系解除后，成年养子女与生父母的权利义务关系(      )。	
+</string>
+		<string>A、自行恢复	           
+</string>
+		<string>B、不能恢复	
+</string>
+		<string>C、经过双方协商同意恢复	
+</string>
+		<string>D、经过双方协商同意后仍不能恢复
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>103	遗嘱在(      )。	
+</string>
+		<string>A、遗嘱人死亡后生效	
+</string>
+		<string>B、订立后生效	
+</string>
+		<string>C、公证后生效	
+</string>
+		<string>D、公布后生效
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>104	下列哪种遗嘱形式不需要证人在场见证即为有效？(      )。	
+</string>
+		<string>A、口头遗嘱
+</string>
+		<string>B、录音遗瞩	
+</string>
+		<string>C、自书遗嘱
+</string>
+		<string>D、代书遗嘱
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>105	小高的生父及与小高形成了抚养教育关系的继父均于1997年死亡，依照我国法律规定，小高(      )。	
+</string>
+		<string>A、只能继承生父的遗产	        
+</string>
+		<string>B、只能继承继父的遗产	
+</string>
+		<string>C、对生父、继父的遗产都无权继承	 
+</string>
+		<string>D、对生父、继父的遗产都有权继承
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>106	继承人在遗产处理前没有放弃继承或接受继承表示的，即视为(      )。
+</string>
+		<string>A、放弃继承
+</string>
+		<string>B、接受继承	
+</string>
+		<string>C、丧失继承权	
+</string>
+		<string>D、转继承
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>107	遗嘱应当对(      )保留必要的遗产份额。	
+</string>
+		<string>A、缺乏劳动能力又没有生活来源的继承人	
+</string>
+		<string>B、法定继承人	
+</string>
+		<string>C、无行为能力人	                     
+</string>
+		<string>D、配偶
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>108	王某自丈夫去世后，一直与公婆居住在一起，尽了主要的赡养义务。王某有一儿子李甲。王某的公公去世后(      )。	
+</string>
+		<string>A、李甲可以代位继承其父应继承的份额，王某没有继承权	
+</string>
+		<string>B、王某可以作为第一顺序继承人，李甲不能代位继承	
+</string>
+		<string>C、王某可以作为第一顺序继承人，李甲也可以代位继承	
+</string>
+		<string>D、王某和李甲都没有继承权
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>109	继承权纠纷提起诉讼的期限为(      )。	
+</string>
+		<string>A、1年	
+</string>
+		<string>B、2年	
+</string>
+		<string>C、3年	
+</string>
+		<string>D、6个月
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>110	被继承人生前订有遗赠扶养协议，同时又立有遗嘱的，继承开始后，对遗产的处理应按(      )。	
+</string>
+		<string>A、遗嘱	
+</string>
+		<string>B、法定继承	
+</string>
+		<string>C、遗赠扶养协议	
+</string>
+		<string>D、法院的判决
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>111	继承人所为的下列行为，不致使丧失继承权的是(      )。	
+</string>
+		<string>A、过失杀害被继承人	           
+</string>
+		<string>B、遗弃被继承人	
+</string>
+		<string>C、为争夺遗产而杀害其他继承人	
+</string>
+		<string>D、伪造遗嘱情节严重的
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>112	自书遗嘱(      )。	
+</string>
+		<string>A、无须见证人	           
+</string>
+		<string>B、应有一个见证人
+</string>
+		<string>C、应有两个以上见证人	
+</string>
+		<string>D、必须经过公证
+</string>
+		<string>A
+</string>
+	</array>
+	<array>
+		<string>113	被继承人死亡后，他所欠的税款应当清偿，但(      )。	
+</string>
+		<string>A、超越遗产的实际价值的部分，由继承人负担	
+</string>
+		<string>B、超越遗产的实际价值的部分，由受遗赠人负担	
+</string>
+		<string>C、以遗产的实际价值为限，不足部分不再偿还	
+</string>
+		<string>D、不论遗产多少，必须全部清偿	
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>114	我国刑法规定的相对负刑事责任年龄是指(      )。	
+</string>
+		<string>A、14周岁以上不满18周岁	
+</string>
+		<string>B、16周岁以上不满18周岁	
+</string>
+		<string>C、14周岁以上不满16周岁	
+</string>
+		<string>D、不满14周岁	
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>115	又聋又哑的人犯罪(      )。	
+</string>
+		<string>A、从重处罚	     
+</string>
+		<string>B、从轻处罚	
+</string>
+		<string>C、从轻或减轻处罚	  
+</string>
+		<string>D、从轻或减轻或免除处罚
+</string>
+		<string>D	
+</string>
+	</array>
+	<array>
+		<string>116	保卫科干部李某开玩笑，拿起桌上的手枪向张某打了一枪，不料枪中有子弹，张某被打死。李某的行为是(      )。	
+</string>
+		<string>A、间接故意
+</string>
+		<string>B、意外事故	
+</string>
+		<string>C、疏忽大意的过失	
+</string>
+		<string>D、过于自信的过失	
+</string>
+		<string>C
+</string>
+	</array>
+	<array>
+		<string>117	斗殴中，王某向李某腿部扎了一刀，李某因失血过多而死亡，王某构成(      )。	
+</string>
+		<string>A、故意杀人罪	
+</string>
+		<string>B、故意伤害罪	
+</string>
+		<string>C、过失至人死亡罪	
+</string>
+		<string>D、过失伤害罪	
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>118	王某为报复，夜晚点燃大队部的房子。点燃后，又反悔，叫人来救火，但因火势过猛，队部的房子被烧毁。王某的行为(      )。	
+</string>
+		<string>A、是犯罪中止	
+</string>
+		<string>B、是犯罪既遂	
+</string>
+		<string>C、是犯罪未遂	
+</string>
+		<string>D、是犯罪预备	
+</string>
+		<string>B
+</string>
+	</array>
+	<array>
+		<string>119	李某持刀追杀张某，张弟路过，见状举棍打伤了李。张弟的行为属于(      )。
+</string>
+		<string>A、故意犯罪
+</string>
+		<string>B、紧急避险	
+</string>
+		<string>C、避险过当
+</string>
+		<string>D、正当防卫	
+</string>
+		<string>D
+</string>
+	</array>
+	<array>
+		<string>120	李某参与赌博输给王某数万元，输光后，要抢回这笔钱。王某为了防止钱被抢走，打伤了李某，王某的行为属于(      )。
+</string>
+		<string>A、正当防卫	
+</string>
+		<string>B、紧急避险
+</string>
+		<string>C、防卫过当
+</string>
+		<string>D、故意犯罪	
+</string>
+		<string>D</string>
+	</array>
+</array>
+</plist>
